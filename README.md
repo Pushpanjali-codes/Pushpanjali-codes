@@ -61,7 +61,7 @@ Hello! I'm **Pushpanjali**, a passionate learner currently pursuing my **B.Tech 
   <a href="mailto:your-pushpanjali.t2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Pushpanjali-codes/Pushpanjali-codes" target="_blank">
+  <a href="https://github.com/Pushpanjali-codes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
