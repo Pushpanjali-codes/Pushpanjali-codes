@@ -55,7 +55,7 @@ Hello! I'm **Pushpanjali**, a passionate learner currently pursuing my **B.Tech 
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/pushpanjalisahu21" target="_blank">
+  <a href="https://www.linkedin.com/in/pushpanjalisahu21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
